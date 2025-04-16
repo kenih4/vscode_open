@@ -2,13 +2,10 @@
 
 
 rem OK  .\vscode_open.bat C:\\Users\\kenic\\Dropbox\\gitdir\\Oto
-rem DAME    .\vscode_open.bat C:\Users\kenic\Documents\operation_log_NEW
-rem DAME    .\vscode_open.bat "C:\Users\kenic\Documents\operation_log_NEW"
 rem OK    .\vscode_open.bat C:\\Users\\kenic\\Documents\\operation_log_NEW
-rem DAME    .\vscode_open.bat "C:\\Users\\kenic\\Documents\\operation_log_NEW"
 
 
-color 1d
+color af
 
 echo arg1: %1
 
